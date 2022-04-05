@@ -1,4 +1,4 @@
-// Isaac Gallegos -> Examen Práctico - Unidad 1
+// Isaac Gallegos -> Sistema control de temperatura
 // Agregando las librerías necesarias
 #include <LCD_I2C.h>
 
